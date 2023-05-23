@@ -4,7 +4,7 @@ import seaborn as sns
 from random import random
 import matplotlib.pyplot as plt
 import matplotlib.animation as ani
-from model_classes import *
+from models import *
 '''
 VISUALIZATION SETUP
 '''
