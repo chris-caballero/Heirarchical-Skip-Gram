@@ -26,6 +26,28 @@ To use the Hierarchical Softmax Model, you can follow these steps:
 
 **Note:** The code provided in this README is just a simplified implementation of the Hierarchical Softmax and Skip-gram model. You can adapt it to your specific use case and extend it as needed.
 ***
+## Results
+
+### Heirarchical Softmax Model Predictions:
+**Note:** The colors have not been set to align with the words. However, it can be clearly seen that after training the same words have similar probabilities.
+#### Before Training:
+
+<img src="Imgs/pre-hs-res.png" alt="Alt text" title="Optional title" width="400" height="200">
+
+#### After Training:
+
+<img src="Imgs/post-hs-res.png" alt="Alt text" title="Optional title" width="400" height="200">
+
+
+### Heirarchical Softmax Model Loss:
+
+<img src="Imgs/loss-hs.png" alt="Alt text" title="Optional title">
+
+### Complexity Comparison:
+
+<img src="Imgs/complexity.png" alt="Alt text" title="Optional title">
+
+***
 ## Dependencies
 
 The following dependencies are required to run the code:
